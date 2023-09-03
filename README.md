@@ -18,4 +18,4 @@ Miscellaneous stuff are listed under here!
 ### Updates (v1.1)
 - literally changed like everyone lol not gonna list it all
 ### Disclaimer
-This tool is for educational purposes only, I do not intend on using this for malicious intent or have others use it for malicious intent.
+This tool is for educational purposes only, I do not intend on using this for malicious purposes or have others use it with malicious intent.
