@@ -1,6 +1,5 @@
 # J0HANs-SELFBOT
-Some basic commands made into a selfbot so you can use them anywhere, including DMs!
-
+J0HANs SELFBOT | Some basic commands made into a selfbot so you can use them anywhere, including DMs! Comes included with spamming, ghosting, and other such commands.
 ## 🛠️ Setup
 Get ready to start using this very soon!
 
